@@ -1,0 +1,12 @@
+3
+Hearts
+2
+Hearts
+4
+Diamonds
+5
+Spades
+6
+Clubs
+7
+Spades
